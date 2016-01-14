@@ -17,10 +17,8 @@ var consto = require('consto');
 
 //Upper Style, default style
 var co = consto(['rain', 'sea', 'key']);
-
->co.RAIN => 'RAIN'
->co.SEA => 'SEA',
->co.KEY => 'KEY'
+// > co
+// { RAIN: 'RAIN', SEA: 'SEA', KEY: 'KEY' }
 
 //Free Style, by specifiy a true
 var fs = consto(['Rain', 'sea', 'KEY'], true);
