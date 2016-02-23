@@ -1,3 +1,4 @@
+[![Beerpay](https://beerpay.io/calidion/consto/badge.svg?style=flat-square)](https://beerpay.io/calidion/consto)
 # consto [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
 > A way to define an object having the same value to its name attribute string
 
